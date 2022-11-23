@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on **1 st Semester Project**
+- 🔭 I’m currently working on **1st Semester Project**
 
 - 🌱 I’m currently learning **Web Development, UX Design, Content Creation**
 
