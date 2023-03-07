@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on **WordPress page design**
+- 🔭 I’m currently working on **Personal Portfolio peoject**
 
-- 🌱 I’m currently learning **Web Development, UX Design, Content Creation**
+- 🌱 I’m currently learning **Web Development, UX Design, Content Creation, CMS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TLNRB](https://github.com/TLNRB)
 
