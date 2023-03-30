@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on **Recepie Website for pasta**
+- 🔭 I’m currently working on **Personal Portfolio**
 
-- 🌱 I’m currently learning **Web Development, UX Design, Content Creation, CMS**
+- 🌱 I’m currently learning **VUE JS, TailWind, and getting into GSAP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TLNRB](https://github.com/TLNRB)
 
