@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on **Personal Portfolio**
+- 🔭 I’m currently working on **Website for an event organizer**
 
 - 🌱 I’m currently learning **VUE JS, TailWind, and getting into GSAP**
 
