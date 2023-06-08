@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on **Website for an event organizer**
+- 🔭 I’m currently working on [Pasta Recepie Website](https://project-pastaperfect.firebaseapp.com/)
 
 - 🌱 I’m currently learning **VUE JS, TailWind, and getting into GSAP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/TLNRB](https://github.com/TLNRB)
+- 👨‍💻 All of my projects are available at [https://norbert-tolnai.com/](https://norbert-tolnai.com/)
 
 - 📫 How to reach me **tolnainorbi16@gmail.com**
 
