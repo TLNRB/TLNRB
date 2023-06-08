@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **VUE JS, TailWind, and getting into GSAP**
 
-- 👨‍💻 All of my projects are available at [https://norbert-tolnai.com/](https://norbert-tolnai.com/)
+- 👨‍💻 All of my projects are available at [norbert-tolnai.com](https://norbert-tolnai.com/)
 
 - 📫 How to reach me **tolnainorbi16@gmail.com**
 
