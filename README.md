@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on [Sauna Website](https://project-pastaperfect.firebaseapp.com/)
+- 🔭 I’m currently working on [Sauna Website](https://project-pastaperfect.firebaseapp.com/) / [Gym Website](https://project-kxyorkville.firebaseapp.com/)
 
-- 🌱 I’m currently learning **VUE JS, React**
+- 🌱 I’m currently learning **VUE JS, React, WordPress**
 
 - 👨‍💻 All of my projects are available at [norbert-tolnai.com](https://norbert-tolnai.com/)
 
