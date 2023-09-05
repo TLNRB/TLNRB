@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Sauna Website](https://project-pastaperfect.firebaseapp.com/) / [Gym Website](https://project-kxyorkville.firebaseapp.com/)
 
-- 🌱 I’m currently learning **React, WordPress/PHP**
+- 🌱 I’m currently learning **React, WordPress / PHP**
 
 - 👨‍💻 All of my projects are available at [norbert-tolnai.com](https://norbert-tolnai.com/)
 
