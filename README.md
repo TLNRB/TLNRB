@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on [Gym Website](https://gym-kxyorkville.web.app/)
+- 🔭 I’m currently working on [Gym Website](https://gym-kxyorkville.web.app/)  / Inventory Solution App
 
 - 🌱 I’m currently learning **React, WordPress / PHP, Typescript**
 
