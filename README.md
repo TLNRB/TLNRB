@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Inventory Solution App
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **React, Typescript, GSAP**
 
 - 👨‍💻 All of my projects are available at [norbert-tolnai.com](https://norbert-tolnai.com/)
 
