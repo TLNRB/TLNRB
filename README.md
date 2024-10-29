@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norbert Tolnai</h1>
-<h3 align="center">A Hungarian student currently studying Multimedia Design at Business Academy SouthWest</h3>
+<h3 align="center">A Hungarian student currently studying Web Development at Business Academy SouthWest</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/media/c77e984a3c3c00367b7b70c21edfde00.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
