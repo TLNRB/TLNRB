@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlnrb&label=Profile%20views&color=0e75b6&style=flat" alt="tlnrb" /> </p>
 
-- 🔭 I’m currently working on a Cinema Website with booking szstem and payment
+- 🔭 I’m currently working on a Cinema Website with booking system and payment
 
 - 🌱 I’m currently learning **PHP, MySQL**
 
