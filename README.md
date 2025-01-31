@@ -2,9 +2,9 @@
 <h3 align="center">A Hungarian student currently studying Web Development at Business Academy SouthWest</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/121260/screenshots/2278852/media/c77e984a3c3c00367b7b70c21edfde00.gif">
 
-- 🔭 I’m currently working on a Cinema Website with booking system and payment
+- 🔭 I’m currently working on an API Project, and upgrading my portfolio webiste.
 
-- 🌱 I’m currently learning **PHP, MySQL**
+- 🌱 I’m currently learning **MongoDB, TypeScript, Laravel**
 
 - 👨‍💻 All of my projects are available at [norbert-tolnai.web.app](https://norbert-tolnai.web.app/)
 
