@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on an API Project, TypeScript/Vue Project, and upgrading my portfolio webiste<br>📚 I'm currently learning MongoDB, TypeScript, Express<br>👨‍💻 My projects are available at [norbert-tolnai.web.app](https://norbert-tolnai.web.app/)<br>🎲 Fun fact: I love gaming</p>
+<p align="left">🔭 I’m currently working on an API Project, TypeScript/Vue Project, and upgrading my portfolio webiste<br>📚 I'm currently learning **MongoDB, TypeScript, Express**<br>👨‍💻 My projects are available at <a href="https://norbert-tolnai.web.app/" target="_blank">norbert-tolnai.web.app</a><br>🎲 Fun fact: I love gaming</p>
 
 ###
 
